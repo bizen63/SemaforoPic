@@ -1,0 +1,38 @@
+[Eagle]
+Version="07 03 00"
+Platform="Linux"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="/opt/eagle-7.3.0/lbr/elektro/e-elektro-zeichnungsrahmen.lbr"
+UsedLibrary="/opt/eagle-7.3.0/lbr/elektro/e-elektromechanische-antriebe.lbr"
+UsedLibrary="/opt/eagle-7.3.0/lbr/elektro/e-halbleiter.lbr"
+UsedLibrary="/opt/eagle-7.3.0/lbr/elektro/e-klemmen.lbr"
+UsedLibrary="/opt/eagle-7.3.0/lbr/elektro/e-kondensatoren.lbr"
+UsedLibrary="/opt/eagle-7.3.0/lbr/elektro/e-lampen-signalisation.lbr"
+UsedLibrary="/opt/eagle-7.3.0/lbr/elektro/e-messfuehler.lbr"
+UsedLibrary="/opt/eagle-7.3.0/lbr/elektro/e-messinstrumente.lbr"
+UsedLibrary="/opt/eagle-7.3.0/lbr/elektro/e-motoren.lbr"
+UsedLibrary="/opt/eagle-7.3.0/lbr/elektro/e-motorschutzschalter.lbr"
+UsedLibrary="/opt/eagle-7.3.0/lbr/elektro/e-schalter.lbr"
+UsedLibrary="/opt/eagle-7.3.0/lbr/elektro/e-schuetze-relais.lbr"
+UsedLibrary="/opt/eagle-7.3.0/lbr/elektro/e-sicherungen.lbr"
+UsedLibrary="/opt/eagle-7.3.0/lbr/elektro/e-sps.lbr"
+UsedLibrary="/opt/eagle-7.3.0/lbr/elektro/e-spulen-transformatoren.lbr"
+UsedLibrary="/opt/eagle-7.3.0/lbr/elektro/e-steckverbinder.lbr"
+UsedLibrary="/opt/eagle-7.3.0/lbr/elektro/e-stromversorgungselemente.lbr"
+UsedLibrary="/opt/eagle-7.3.0/lbr/elektro/e-symbole.lbr"
+UsedLibrary="/opt/eagle-7.3.0/lbr/elektro/eib-busch-jaeger.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="1050 47 1649 446"
+State=2
+Number=0
+
+[Desktop]
+Screen="1920 1080"
+Window="Win_1"
